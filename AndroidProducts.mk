@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_DiLink4.0.mk
+    $(LOCAL_DIR)/twrp_DiLink4.0.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_DiLink4.0-user \
